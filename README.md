@@ -1,4 +1,4 @@
-Instruções para o Tabalho do PIM - GitHub
+**Instruções para o Tabalho do PIM - GitHub**
 
 Tenha instalado o Git na sua maquina.
 Faça uma conta no GitHub.
