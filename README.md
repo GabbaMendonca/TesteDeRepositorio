@@ -6,10 +6,15 @@ Tenha instalado o Git na sua maquina.
 
 Faça uma conta no GitHub.
 
-
 Faça um Fork do projeto na sua conta.
 
+Faça o clone do projeto na sua maquina
+
+> git clone (URL do seu repositorio)
+
 Crie um branch nova.
+
+> git checkout –b (Nome da sua branch)
 
 Trabalhe na alteração.
 
