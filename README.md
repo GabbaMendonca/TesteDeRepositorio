@@ -23,3 +23,13 @@ https://www.youtube.com/watch?v=MpsNF-EyytQ
 
 Como resolver conflitos de Pull Request
 https://www.youtube.com/watch?v=PsKJbdGtQYc
+
+---
+
+Trabalhando um projeto em vários repositórios locais - Resolvendo conflitos
+https://www.youtube.com/watch?v=yNCBpSX9Yj4
+
+---
+
+GIT - Criando ramificações do projeto (branch e merge)
+https://www.youtube.com/watch?v=iRs6sQOPcvg
