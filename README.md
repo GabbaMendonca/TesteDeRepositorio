@@ -4,6 +4,8 @@
 
 Tenha instalado o Git na sua maquina.
 
+> https://git-scm.com/downloads
+
 Faça uma conta no GitHub.
 
 Faça um Fork do projeto na sua conta.
@@ -18,7 +20,7 @@ Crie um branch nova.
 
 Trabalhe na alteração.
 
-Faça um Pull Request da branch nova neste repositorio.
+Faça um Pull Request da sua branch neste repositorio na branch Developer.
 
 
 ---
