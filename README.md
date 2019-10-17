@@ -20,6 +20,10 @@ Crie um branch nova. ( Recomendo não trabalhar a master para evitar conflitos )
 
 Trabalhe na alteração. E faça o commit com o camando abaixo.
 
+> git status
+
+> git add <arquivo> ou git add .
+   
 > git commit -m "comentários das alterações"
 
 Mandando somente a brach nova para o seu repositorio remoto
@@ -58,8 +62,13 @@ Agora sempre que for atualizar o master local com a master do repositorio centra
 
 > git rebase upstream/master
 
-
 ---
+
+# Sites de Referencia
+
+[Basico - Guia prático para começar com git. sem complicação](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+
+# Videos de Referencia
 
 Como fazer um Pull Resquest para o GitHub
 
