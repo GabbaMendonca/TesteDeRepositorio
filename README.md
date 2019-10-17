@@ -70,6 +70,12 @@ Agora sempre que for atualizar o master local com a master do repositorio centra
 
 [Mantendo um fork atualizado no Github](https://www.lambda3.com.br/2016/02/mantendo-um-fork-atualizado-no-github/)
 
+[Git Merge e Git Rebase: quando usá-los?](https://www.treinaweb.com.br/blog/git-merge-e-git-rebase-quando-usa-los/)
+
+---
+
+[Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+
 # Videos de Referencia
 
 Como fazer um Pull Resquest para o GitHub
