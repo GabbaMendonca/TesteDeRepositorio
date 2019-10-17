@@ -22,7 +22,7 @@ Trabalhe na alteração. E faça o commit com o camando abaixo.
 
 > git status
 
-> git add <arquivo> ou git add .
+> git add (arquivo) ou git add .
    
 > git commit -m "comentários das alterações"
 
