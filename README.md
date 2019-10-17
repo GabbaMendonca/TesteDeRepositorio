@@ -1,5 +1,33 @@
 # Trabalho do PIM III
 
+**Topologia do Projeto :**
+
+Camada View :
+	
+	Desktop :
+	TelaCadastrarCliente.Designer.cs
+	TelaCadastrarCliente.cs
+
+	Web :
+	CadastrarCliente.aspx
+
+Camada BLL:
+
+	ClienteController.cs
+	HomeController.cs
+
+Camada DAL:
+
+	DAOFactory.cs
+	ICliente.cs
+	ClienteDAO.cs
+	ConexaoSQL.cs
+
+Camada DTO:
+
+	Cliente.cs
+
+
 **Instruções para o Tabalho do PIM - GitHub**
 
 Tenha instalado o Git na sua maquina.
