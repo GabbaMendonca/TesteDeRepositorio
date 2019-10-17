@@ -67,6 +67,7 @@ Agora sempre que for atualizar o master local com a master do repositorio centra
 # Sites de Referencia
 
 [Basico - Guia prático para começar com git. sem complicação](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+[Mantendo um fork atualizado no Github](https://www.lambda3.com.br/2016/02/mantendo-um-fork-atualizado-no-github/)
 
 # Videos de Referencia
 
