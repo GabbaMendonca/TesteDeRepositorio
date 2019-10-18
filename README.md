@@ -14,7 +14,6 @@ Camada View :
 Camada BLL:
 
 	ClienteController.cs
-	HomeController.cs
 
 Camada DAL:
 
