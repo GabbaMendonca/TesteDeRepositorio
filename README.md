@@ -5,7 +5,7 @@
 Camada View :
 	
 	Desktop :
-	TelaCadastrarCliente.Designer.cs
+	Form1.cs
 	TelaCadastrarCliente.cs
 
 	Web :
